@@ -1,0 +1,123 @@
+{
+    "data": [
+      {
+        "type" :"field",
+        "name": "HAEMOGLOBIN",
+        "unit": "GM%",
+        "rname": "v1",
+        "rid": "v1",
+        "range": "MALE:13.0 to 18.0GM %<br>FEMALE:12.0 -16.0GM %"
+      },
+      {
+        "type": "script",
+        "unit": "console.log(\"hello\")"
+      },
+      {
+        "type": "lable",
+        "unit": "DIFFERANCIAL LEUCOCYTES COUNT"
+      },
+      {
+        "type" :"field",
+        "name": "POLYMORPHAS",
+        "unit": "%",
+        "rname": "v2",
+        "rid": "v2",
+        "range": "( 40 - 70 %)"
+      },
+      {
+        "type" :"field",
+        "name": "POLYMORPHAS",
+        "unit": "%",
+        "rname": "v3",
+        "rid": "v3",
+        "range": "( 40 - 70 %)"
+      },
+      {
+        "type" :"field",
+        "name": "LYMPHOCYTES",
+        "unit": "%",
+        "rname": "v4",
+        "rid": "v4",
+        "range": "( 20 - 40 %)"
+      },
+      {
+        "type" :"field",
+        "name": "EOSINOPHILS",
+        "unit": "%",
+        "rname": "v5",
+        "rid": "v5",
+        "range": "( 01 - 06 %)"
+      },
+      {
+        "type" :"field",
+        "name": "MONOCYTES",
+        "unit": "%",
+        "rname": "v6",
+        "rid": "v6",
+        "range": "( 02 - 06 %)"
+      },
+      {"type" :"field",
+        "name": "BASOPHILS",
+        "unit": "%",
+        "rname": "v7",
+        "rid": "v7",
+        "range": "( 00 - 01 %)"
+      },
+      {"type" :"field",
+        "name": "PLATELET  COUNT",
+        "unit": "/cumm",
+        "rname": "v8",
+        "rid": "v8",
+        "range": "(150000 - 500000/cumm)"
+      },
+      {"type" :"field",
+        "name": "R.B.C.  COUNT",
+        "unit": "X 106/Cumm",
+        "rname": "v9",
+        "rid": "v9",
+        "range": "(4.0-6.0X106/cumm)"
+      },
+      {"type" :"field",
+        "name": " H.C.T.",
+        "unit": "%",
+        "rname": "v10",
+        "rid": "v10",
+        "range": "( 36-52 % )"
+      },
+      {"type" :"field",
+        "name": " M.C.V.",
+        "unit": "/cumm",
+        "rname": "v11",
+        "rid": "v11",
+        "range": "(82 -92 cumm )"
+      },
+      {"type" :"field",
+        "name": "M.C.H.",
+        "unit": "pg",
+        "rname": "v12",
+        "rid": "v12",
+        "range": "( 27-32 pg )"
+      },
+      {"type" :"field",
+        "name": "M.C.H.C.",
+        "unit": "%",
+        "rname": "v13",
+        "rid": "v13",
+        "range": "( 32-36 % )"
+      },
+      {"type" :"field",
+        "name": " E.S.R. (Westergren Method)",
+        "unit": "mm/1 hour ",
+        "rname": "v14",
+        "rid": "v14",
+        "range": "(1 -20 mm/1 hour)"
+      },
+      {"type" :"field",
+        "name": "RANDOM BLOOD SUGAR",
+        "unit": "mg/dl",
+        "rname": "v15",
+        "rid": "v15",
+        "range": "( 70 - 140 mg/dl )"
+      }
+    ]
+  }

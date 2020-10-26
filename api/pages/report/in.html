@@ -1,0 +1,322 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Balaji Lab</title>
+        <link href="http://localhost/css/styles.css" rel="stylesheet" />
+        <link href="http://localhost/css/dataTables.bootstrap4.min.css" rel="stylesheet"  />
+        <script src="http://localhost/js/all.min.js" ></script>
+    </head>
+    <body class="sb-nav-fixed">
+        <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+            <a class="navbar-brand" href="http://localhost">Balaji Laboratory</a>
+            <button class="btn btn-link btn-sm order-1 order-lg-0" id="sidebarToggle" href="#"><i class="fas fa-bars"></i></button>
+          
+           
+        </nav>
+        <div id="layoutSidenav">
+            <div id="layoutSidenav_nav">
+                <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+    <div class="sb-sidenav-menu">
+        <div class="nav">
+            <a class="nav-link active" href="/pages/report/">
+                <div class="sb-nav-link-icon"><i class="fas fa-vial"></i></div>
+                Reports
+            </a>
+            <a class="nav-link active" href="/pages/patient/">
+                <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
+                Patients
+            </a>
+        </div>
+        </div>
+    <div class="sb-sidenav-footer">
+        <div class="small">Logged in as:</div>
+        Sanjay Patel
+    </div>
+</nav>            </div>
+            <div id="layoutSidenav_content">
+                <main>
+                    <div class="container-fluid">
+                        <h1 class="mt-1">New Report</h1>
+                        
+                        <div class="row ">
+                            <div class="col-lg-4 px-3">
+                                <div class="card shadow-lg border-0 rounded-lg mt-5">
+                                    
+                                    <div class="card-body">
+                                        <form method="POST">
+                                            <div class="form-group">
+                                                <label class=" mb-1" for="inputRT">Report Type</label>
+                                                <div class="selR" id="inputRT" onclick="typ()">
+                                               
+                                                </div>
+                                            </div>
+                                            <input type="hidden" id="typess" name="typesS" value=""/>
+                                            <div class="form-group">
+                                                <label class="mb-1" for="inputPID">Patient ID</label>
+                                                <input class="form-control py-4" id="inputPID" type="text"  name="pid" aria-describedby="emailHelp" onfocus="idp()"  placeholder="Patient ID">
+                                            </div>
+                                            <div class="form-group">
+                                                        <label class=" mb-1" for="ref">REFERED BY: </label>
+                                                <input class="form-control py-4" id="ref" type="text"  name="ref" aria-describedby="emailHelp" onfocus="dri()"  placeholder="Patient ID">
+                                              
+                                                    </div>
+                                            <div class="form-group mt-4 mb-0"><input type="submit" class="btn btn-success btn-block" value="Add"></div>
+                                        </form>
+                                    </div>
+                                 
+                                </div>
+                            </div>
+                            <div class="col-lg-8">
+                            <div class="table-responsive" id="types" style="">
+                                    <table class="table table-bordered" id="dataTable11" width="100%" cellspacing="0">
+                                        <thead>
+                                            <tr>
+                                                <th>Id</th>
+                                                <th>Name</th>
+                                                
+                                            </tr>
+                                        </thead>
+                                        <tfoot>
+                                            <tr>
+                                                <th>Id</th>
+                                                <th>Name</th>
+                                              
+                                            </tr>
+                                        </tfoot>
+                                        <tbody>
+                                            <tr>
+                                                        <td>1001</td>
+                                                        <td>HEAMOGRAM REPORT</td>
+                                                        </tr>
+                                                                                            </tbody>
+                                    </table>
+                                </div>
+                                <!------->
+                            <div class="table-responsive" id="names" style="display:none">
+                                    
+                                    <table class="table table-bordered" id="dataTable2" width="100%" cellspacing="0">
+                                        <thead>
+                                            <tr>
+                                                <th>Id</th>
+                                                <th>Name</th>
+                                                
+                                            </tr>
+                                        </thead>
+                                        <tfoot>
+                                            <tr>
+                                                <th>Id</th>
+                                                <th>Name</th>
+                                              
+                                            </tr>
+                                        </tfoot>
+                                        <tbody>
+                                            <tr>
+                                                        <td>BL-6</td>
+                                                        <td>XO FIFI</td>
+                                                        </tr>
+                                                    <tr>
+                                                        <td>BL-5</td>
+                                                        <td>AHUHSSH PATEL</td>
+                                                        </tr>
+                                                    <tr>
+                                                        <td>BL-4</td>
+                                                        <td>XO FIFI</td>
+                                                        </tr>
+                                                    <tr>
+                                                        <td>BL-3</td>
+                                                        <td>SANJAY L. PATEL</td>
+                                                        </tr>
+                                                    <tr>
+                                                        <td>BL-2</td>
+                                                        <td>SHUBH PATEL</td>
+                                                        </tr>
+                                                    <tr>
+                                                        <td>BL-1</td>
+                                                        <td>BINAL S. PATEL</td>
+                                                        </tr>
+                                                                                            </tbody>
+                                    </table>
+                                </div>
+                                <div class="table-responsive" id="dr">
+                                
+  <table class="table table-bordered" id="dataTable3" width="100%" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Name</th>
+            
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <th>Name</th>
+          
+        </tr>
+    </tfoot>
+    <tbody><tr><td>B.J.PATEL M.D.(GYN.)
+</td></tr><tr><td>A.M.PATEL M.B.,D.G.O.
+</td></tr><tr><td>R.C.PATEL M.D.(GYN.)
+</td></tr><tr><td>K.P.SHAH M.D.(PHY.)
+</td></tr><tr><td>S.G.PATEL M.D.(PHY.)
+</td></tr><tr><td>B.V.PATEL M.D.(PHY.)
+</td></tr><tr><td>D.J.BHAVASAR M.S.(GEN.)
+</td></tr><tr><td>S.N.PATEL  M.S.
+</td></tr><tr><td>JIGNESHBHAI D.H.M.S.
+</td></tr><tr><td>P.K.PATEL M.S.(GEN.)
+</td></tr><tr><td>P.H.TRIVEDI M.S.,MNAMS
+</td></tr><tr><td>A.H.PATEL M.D.(PED.)
+</td></tr><tr><td>C.K.RAVAL M.D.(PED.)
+</td></tr><tr><td>A.A.MANIYAR (M.B.B.S.)
+</td></tr><tr><td>A.J.PATEL (M.B.B.S.)
+</td></tr><tr><td>A.V.RAVAL (M.B.B.S.)
+</td></tr><tr><td>A.N.PATEL (M.B.B.S.)
+</td></tr><tr><td>B.K.PATEL (M.B.B.S.)
+</td></tr><tr><td>H.K.JAVAIYA (M.B.B.S.)
+</td></tr><tr><td>P.T.PATEL (M.B.B.S.)
+</td></tr><tr><td>M.B.PATEL M.D.(GYN.)
+</td></tr><tr><td>D.M.PRAJAPATI MD(SKIN)DVD
+</td></tr><tr><td>JAGADISHBHAI D.H.M.S.
+</td></tr><tr><td>J.H.PATEL
+</td></tr><tr><td>P.M.PATEL D.H.M.S.
+</td></tr><tr><td>RAJESHBHAI M.D.
+</td></tr><tr><td>N.D.BHAVASAR
+</td></tr><tr><td>U.K.NIHALANI MD(SKIN)DVD
+</td></tr><tr><td>S.M.DEVDHAR M.S.(ORTHO)
+</td></tr><tr><td>MEHA N.PATEL M.B.B.S.
+</td></tr><tr><td>YADAV M.B.B.S.
+</td></tr><tr><td>K.I.PATEL B.A.M.S.
+</td></tr><tr><td>M.K.PUROHIT  M.D.(GYN.)
+</td></tr><tr><td>V.S.PATEL M.S.(OPTH)
+</td></tr><tr><td>NAGAR M.O.AYUR. UNJHA
+</td></tr><tr><td>AMIT BHATT  MD(AM)BAMS,FRHS
+</td></tr><tr><td>SIDDHARTHBHAI M.D.
+</td></tr><tr><td>A.D.BHOJAK B.D.S.
+</td></tr><tr><td>B.M.MISTRY B.D.S.
+</td></tr><tr><td>D.A.RAJYAGURU M.S.,M.C.H.
+</td></tr><tr><td>M.M.CHAUDHARY M.D.(NEPH.)
+</td></tr><tr><td>M.A.RAVAL M.B.B.S.
+</td></tr><tr><td>VALKESHBHAI B.A.M.S.
+</td></tr><tr><td>M.P.SHAH M.D.(PED.)
+</td></tr><tr><td>ASHVINBHAI M.D.
+</td></tr><tr><td>PIYUSH  M.D.(AYUR.)
+</td></tr><tr><td>P.V.AMIN  M.S.(ORTHO.)
+</td></tr><tr><td>KAMLESHBHAI M.B.,D.G.O.
+</td></tr><tr><td>N.J.PARIKH M.B.B.S.
+</td></tr><tr><td>M.O. CIVIL UNJHA  
+</td></tr><tr><td>V.S.MODI G.M.P.
+</td></tr><tr><td>NIMISH BAMTA  D.H.M.S.
+</td></tr><tr><td>S.N.THAKKAR M.S.,M.C.H.
+</td></tr><tr><td>P.H.PRAJAPATI B.H.M.S.
+</td></tr><tr><td>ABHISHEKBHAI B.D.S.
+</td></tr><tr><td>T.J.PATEL B.H.M.S.CNCC
+</td></tr><tr><td>H.L.NAYAK B.D.S.
+</td></tr><tr><td>V.G.SHUKLA M.S.(ORTHO.)
+</td></tr><tr><td>NISHITBHAI M.D.
+</td></tr><tr><td>G.K.PATEL M.S.(ORTHO.)
+</td></tr><tr><td>BHARGAVBHAI  M.B.,D.G.O.
+</td></tr><tr><td>SAPAN PANDYA  M.D.,D.M.
+</td></tr><tr><td>JAIMINBHAI  M.B.D.C.H.
+</td></tr><tr><td>S.DILEEP  M.D.,D.M.
+</td></tr><tr><td>DEVANG PATWARI
+</td></tr><tr><td>HARSH RAVAL M.S.(ORTHO.)
+</td></tr><tr><td>RAJEN S.SHAH  M.S.(E.N.T.)
+</td></tr><tr><td>NIRBHAY DESAI M.S.(E.N.T.)
+</td></tr><tr><td>NIRALIBEN TRIVEDI
+</td></tr></tbody>
+</table>                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </main>
+                
+            </div>
+        </div>
+        <script src="http://localhost/js/jquery-3.5.1.min.js" ></script>
+        <script src="http://localhost/js/bootstrap.bundle.min.js" ></script>
+        <script src="http://localhost/js/scripts.js"></script>
+        <script src="http://localhost/js/Chart.min.js" ></script>
+        <script src="http://localhost/assets/demo/chart-area-demo.js"></script>
+        <script src="http://localhost/assets/demo/chart-bar-demo.js"></script>
+        <script src="http://localhost/js/jquery.dataTables.min.js" ></script>
+        <script src="http://localhost/js/dataTables.bootstrap4.min.js" ></script>
+        <script src="http://localhost/assets/demo/datatables-demo.js"></script>
+        <script>
+           // window.print(); 
+           document.getElementById("dr").style.display = "none";
+           function typ(){
+            document.getElementById("types").style.display = "block";
+            document.getElementById("names").style.display = "none";
+            document.getElementById("dr").style.display = "none";
+           }
+           function idp(){
+            document.getElementById("names").style.display = "block";
+            document.getElementById("types").style.display = "none";
+            document.getElementById("dr").style.display = "none";
+           }
+           function dri(){
+            document.getElementById("dr").style.display = "block";
+            document.getElementById("names").style.display = "none";
+            document.getElementById("types").style.display = "none";
+           }
+           var pickedup;
+                                                
+               
+           $(document).ready(function() {
+            $('#dataTable11').DataTable( {  paging: false } );
+                $('#dataTable3').DataTable( {  paging: false } );
+                $('#dataTable2').DataTable( {
+                    order : [[ 0, "desc" ]], paging: false
+                } );
+
+                $( "#dataTable3 tbody tr" ).on( "click", function( event ) {
+                        
+                        // get back to where it was before if it was selected :
+                        if (pickedup != null) {
+                            pickedup.css( "background-color", "#fff" );
+                        }
+                
+                        $("#ref").val($(this).find("td").eq(0).html());
+                        $( this ).css( "background-color", "#E1ECF4" );
+                
+                        pickedup = $( this );
+                    });
+
+                    $( "#dataTable2 tbody tr" ).on( "click", function( event ) {
+                        
+                        // get back to where it was before if it was selected :
+                        if (pickedup != null) {
+                            pickedup.css( "background-color", "#fff" );
+                        }
+                
+                        $("#inputPID").val($(this).find("td").eq(0).html());
+                        $( this ).css( "background-color", "#E1ECF4" );
+                
+                        pickedup = $( this );
+                    });
+
+                    $( "#dataTable11 tbody tr" ).on( "click", function( event ) {
+                        
+                        // get back to where it was before if it was selected :
+                        if (pickedup != null) {
+                            pickedup.css( "background-color", "#fff" );
+                        }
+                        
+                        $("#typess").val($(this).find("td").eq(0).html());
+                        $("#inputRT").html($("#inputRT").html()+'<span class="selRT">'+$(this).find("td").eq(0).html()+'<button type="button" class="btn-danger" >X</button></span>');
+                        $( this ).css( "background-color", "#E1ECF4" );
+                
+                        pickedup = $( this );
+                    });
+                }); 
+
+                
+        </script>
+    </body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="http://localhost/css/styles.css" rel="stylesheet" />
+    <link href="http://localhost/css/dataTables.bootstrap4.min.css" rel="stylesheet"  />
+    <style>
+        *{
+            margin:20px;
+        }
+        input{
+            margin:20px;
+        }
+        select{
+            padding:10px;
+        }
+        button{
+            width:200px;
+            background-color: dodgerblue;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        Type:<select id="i0" name="i0">
+            <option value="field">field</option>
+            <option value="lable">lable</option>
+            <option value="note">note</option>
+        </select><br>
+        Name:<input type="text" id="i1" name="i1"/><br>
+        unit:<input type="text" id="i2" name="i2"/><br>
+        range:<input type="text" id="i3" name="i3"/><br>
+        default:<input type="text" id="i4" name="i4"/><br>
+        <button onclick="run()">Add</button>
+    </form>
+    <script>
+        var str = "";
+        var i =0;
+        var r = "BK";
+    function run(){
+        
+        if(document.getElementById("i0").value == "field"){
+            if(localStorage.getItem("i")){
+            var ii = parseInt(localStorage.getItem("i"))+1;
+            }else{
+                var ii = 1;
+            }
+            localStorage.setItem("i", ii);
+            var rname = r+ii;
+            var rid=r+ii;
+            str=localStorage.getItem("str")+',{ "type" : "field", "name" : "' +   document.getElementById("i1").value + '" , "unit" : "'+document.getElementById("i2").value+'" , "rname" : "'+rname+'" , "rid" : "'+rid+'", "range" : "'+document.getElementById("i3").value+'" , "default" : "'+document.getElementById("i4").value+'"}';
+        }
+        
+        if(document.getElementById("i0").value == "lable"){
+            str=localStorage.getItem("str")+',{ "type" : "lable", "unit" : "'+document.getElementById("i2").value+'" }';
+        }
+        if(document.getElementById("i0").value == "note"){
+            str=localStorage.getItem("str")+',{ "type" : "note", "unit" : "'+document.getElementById("i2").value+'" }';
+        }
+
+        localStorage.setItem("str", str);
+        console.log(localStorage.getItem("str"));
+    }
+    </script>
+</body>
+</html>

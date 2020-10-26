@@ -1,0 +1,7252 @@
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../style.css" type="text/css">
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana; font-size: 11pt}
+.style9 {font-family: Verdana; font-size: 8pt}
+.style10 {font-family: Verdana; font-size: 10pt}
+.style12 {font-family: Verdana; font-size: 12pt}
+-->
+</style>
+</head>
+
+<body>
+
+<table BORDER=0 align="center" CELLPADDING=3 CELLSPACING=2>
+    <tr>
+	<td><img src="../images/header.jpg" width="786" height="72">
+    </tr>
+    
+    <tr>
+	<td width=770 bgcolor="#e0e0ff" bordercolor="#aoaoff" style="border-style: solid; border-width: 1px">
+		&nbsp;
+<html>
+<head>
+<title>ACPC</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+BODY, P,TD,TR,TABLE{
+	font-family:Arial;
+	font-size:9pt;
+}
+</style>
+</head>
+
+<body>
+
+
+
+<form action='D2D_QRes_18.asp' method=post>
+
+<center>
+	
+	<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	<input type=hidden name=hidCurrentRecord value="11">
+</center>
+<hr>
+</form>
+<table width="100%" align="center" BORDER=0 cellpadding=0 cellspacing=0>
+<tr>
+	<td align=left width=60%>
+		<b><font size=+1.5>Search Results</font></b>&nbsp;
+		<br>
+	</td>
+	<td align=right width=40%>
+		 
+		<b>1 To 1 Of 1</b>
+	</td>
+</tr>
+</table>
+<table align="right">
+	<tr>
+	<td align="right">Merit for Diploma to Degree Engg Admission
+	</tr>
+</table>
+<br><br>
+	
+			<table cellspacing=1 cellpadding=0 align=center width="100%" border=0>    
+			<tr>
+			<td>
+				<table width="100%" cellspacing=1 >
+					<tr bgcolor="#ffcccc">
+						<td width=20% >  
+							<b>&nbsp;Provisional Merit No </b>
+						</td>
+						<td width=36% bgcolor="#ffffff" colspan=7>  
+							&nbsp;1109293
+						</td>
+					</tr>
+					<tr bgcolor="#ffcccc">
+						<td bgcolor="#ccffff">  
+							<b>&nbsp;User ID </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>  
+							&nbsp;201190729991
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Name </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;Gandhi Vasu Jayesh Kumar
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Category</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GN
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Seat No </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;166390319518
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Board Name</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;GTU
+						</td>
+					</tr>
+<!--
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Branch </b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+-->
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Merit Mark / STPI</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;13.0667
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffcc">
+							<b>&nbsp;Remarks</b>
+						</td>
+						<td bgcolor="#ffffff" colspan=7>
+							&nbsp;&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#e0e0ff" colspan=8>
+						<P><br><b>&nbsp;NOTE: </b></p><br>
+							<br><b>&nbsp;1. Please verify your registration details. If found any discripancy contact ACPC before actual round with evidance.</b>
+							<br><b>&nbsp;2. Last Five digit in your merit diplay shows your position (Rank) from respective board.</b>
+							<br><b>&nbsp;3. Candidates are advised to read choice filling instructions very carefully.</b>
+						</td>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+			<br>
+	  
+<table cellspacing=o cellpadding=0 border=0 width="100%" align="center">
+<tr><td valign=top>
+<font color=red>&nbsp;</font>&nbsp;<br>
+</td>
+<td>
+	<font color=red>&nbsp;</font>&nbsp;<br>
+</td></tr></table>
+<hr>
+<form action='D2D_QRes_18.asp' method=post>
+	<table width="100%" align="center">
+	<tr>
+		<td align=right>
+			<b>1 To 1 Of 1</b>
+		</td>
+	</tr>
+	</table>
+	<center>
+
+
+
+		<input type=hidden name=hidCurrentRecord value="11">
+		<input type=button value="New Search" onclick="this.form.action='D2D_Query_18.asp';this.form.submit();">
+	</center>
+
+</form>
+
+</body>
+</html>
+
+
+    </tr>
+</table>
+   
+</body>
+</html>
